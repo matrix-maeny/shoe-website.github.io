@@ -1,5 +1,5 @@
 # shoe-website.github.io
-Simple shoe website
+Simple shoe website tutorial -> reference:YouTube
 
 ![Screenshot (75)](https://user-images.githubusercontent.com/108512175/221398776-a2673e69-185f-465d-b31e-56b0e4932aa0.png)
 ![Screenshot (76)](https://user-images.githubusercontent.com/108512175/221398785-dd5c69dd-8f30-4105-b6fa-30d6cc9ff959.png)
